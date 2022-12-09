@@ -1,2 +1,3 @@
 Foo Bar Baz !!!
 Second line
+Edited foo.txt in remore branch
