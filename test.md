@@ -1,1 +1,1 @@
-Newly added line in remote main branch
+Newly added line in remote main branch and edited.
